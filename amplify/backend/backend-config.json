@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "serenityweb90682a37": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
